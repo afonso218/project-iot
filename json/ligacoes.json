@@ -1,0 +1,11 @@
+[
+		{ "aparelho": "tripla", "ligadoA":  "cozinha"}, 
+		{ "aparelho": "toaster", "ligadoA": "cozinha"},  
+		{ "aparelho": "maqLavar", "ligadoA": "cozinha"},   
+		{ "aparelho": "frigo", "ligadoA": "cozinha"}, 		 
+		{ "aparelho": "microOndas", "ligadoA": "cozinha"}, 
+		{ "aparelho": "lamp2", "ligadoA": "quartos"}, 	
+		{ "aparelho": "lampv1", "ligadoA": "sala"}, 
+		{ "aparelho": "lamp1", "ligadoA": "sala"}, 		
+		{ "aparelho": "comp", "ligadoA": "quartos"}
+]

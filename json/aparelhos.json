@@ -1,0 +1,43 @@
+[
+		{"tipo" : "tripla",
+ 		 "id": "tripla",
+		 "potenciaMaxima": 700.0, 
+		 "nTomadas" : 4
+	 	},
+		{"tipo" :"torradeira",
+		 "id": "toaster",
+		 "potencia" : 100.0
+		}, 
+		{"tipo" :"maqLavarRoupa",
+		 "id": "maqLavar",			  
+		 "programas" : [ {"id" : "highTemp", "ciclos" : [ {"duracao" : 100, "potencia":  1000.0}, {"duracao" : 200, "potencia":  1500.0}, {"duracao" : 200, "potencia":  2000.0}]}, 
+			 			 {"id": "lowTemp", "ciclos" : [ {"duracao" : 50, "potencia":  1000.0}, {"duracao" : 200, "potencia":  800.0}, {"duracao" : 200, "potencia":  1500.0}]} 
+			 		   ],
+		 "potenciaMaxima" : 3000.0
+		}, 
+		{"tipo" :"frigorifico",
+		 "id": "frigo",			  
+		 "potencia": 100.0 
+		}, 			 
+		{"tipo" :"microOndas",
+ 		 "id": "microOndas",			  
+		 "potenciaMaxima": 900.0, 
+		},
+		{"tipo" :"lampada",
+ 		 "id": "lamp2",			  
+		 "potencia": 40.0
+		},		
+		{"tipo" :"lampadaVariavel",
+		 "id": "lampv1",
+		 "potenciaMaxima": 100.0 
+		},
+		{"tipo" :"lampada",
+		 "id": "lamp1",	  
+		 "potencia": 40.0,
+		},
+		{"tipo" :"computador",
+		 "id": "comp",			  
+		 "potenciaMaxima": 100.0 
+		}				
+	
+]

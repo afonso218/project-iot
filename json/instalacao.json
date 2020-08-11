@@ -1,0 +1,14 @@
+[
+   {
+    "nome": "cozinha",
+    "tomadas": 3
+   },
+   {
+    "nome": "quartos",
+    "tomadas": 3
+   },
+   {
+     "nome": "sala",
+     "tomadas": 4
+   }
+]

@@ -1,0 +1,12 @@
+[
+{"accao" : "LIGA", "idAparelho": "frigo", "tempo" : 0},
+{"accao" : "LIGA", "idAparelho": "toaster", "tempo" : 10},
+{"accao" : "LIGA", "idAparelho": "lamp1", "tempo" : 10},
+{"accao" : "LIGA", "idAparelho": "lampv1", "tempo" : 50},
+{"accao" : "AUMENTA", "idAparelho": "lampv1", "valor" : 10.0, "tempo" : 55},
+{"accao" : "LIGA", "idAparelho": "comp", "tempo" : 180},
+{"accao" : "DESLIGA", "idAparelho": "toaster", "tempo" : 200},
+{"accao" : "DESLIGA", "idAparelho": "lamp1", "tempo" : 300},
+{"accao" : "PROGRAMA", "idAparelho": "maqLavar", "tempo" : 350, "programa" : "lowTemp"},
+{"accao" : "LIGA", "idAparelho": "maqLavar", "tempo" : 380}
+]
